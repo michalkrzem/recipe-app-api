@@ -2,7 +2,7 @@
 
 from django.test import SimpleTestCase
 
-from app import calc, substract
+from app import calc
 
 
 class CalcTests(SimpleTestCase):
